@@ -28,7 +28,7 @@ Home | Divyanshu Shares
 	<meta charset="UTF=8">
  <h3 align="center">
     <font face="Lato" color ="#ffffff">
-    <br style = “line-height:25;”>
+    <br> <br> <br> <br>
            <hr><h1> HOME </h1><hr>
 	     <h3>“To feel today what one felt yesterday isn’t to feel - it’s to remember today what was felt yesterday, to be today’s living corpse of what yesterday was lived and lost.”</h3>
 <h3 align="right">
