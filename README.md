@@ -4,8 +4,8 @@
 <link rel=" icon" href="/4.ICO" type="image/x-icon"/>
 <link rel="shortcut icon" href="/4.ICO" type="image/x-icon"/>
 <meta name="description" content="A personal website made for sharing various things such as blogs, drawings books and some personal creations.
-				  Read, enjoy and get an insight on the topics."/>
-<meta property="og:image" content="https://i.imgur.com/idoDJCB.png">
+ Read, enjoy and get an insight on the topics."/>
+<meta property="og:image" content="https://i.imgur.com/9CMg5kw.png">
 <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152-precomposed.png"/>
 <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120-precomposed.png"/>
 </head>
