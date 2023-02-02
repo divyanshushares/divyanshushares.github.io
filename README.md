@@ -16,13 +16,13 @@ Home | Divyanshu Shares
 <div class="navbar">
 <div class="topnav">
   <a class="active" href="https://divyanshushares.github.io/">Home</a>
-  <a href="blog.html">Blog</a>
-  <a href="poem.html">Poems</a>
+  <a href="Blogs.html">Blogs</a>
+  <a href="Poems.html">Poems</a>
   
-  <a href="drawing.html">Drawings</a>
+  <a href="Drawings.html">Drawings</a>
   <a href="#contact">Videos</a>
-  <a href="books.html">Books</a>
-  <a href="about.html">About</a>
+  <a href="Books.html">Books</a>
+  <a href="About.html">About</a>
 </div>
 </div>
 <div style="padding-center">
