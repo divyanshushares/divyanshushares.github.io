@@ -16,7 +16,7 @@ Home | Divyanshu Shares
 <div class="navbar">
 <div class="topnav">
   <a class="active" href="https://divyanshushares.github.io/">Home</a>
-  <a href="./Blogs/">Blogs</a>
+  <a href="./Blogs">Blogs</a>
   <a href="./Poems">Poems</a>
   
   <a href="./Drawings">Drawings</a>
