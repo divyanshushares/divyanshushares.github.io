@@ -19,7 +19,7 @@ Home | Divyanshu Shares
   <a href="./Blogs">Blogs</a>
   <a href="./Poems">Poems</a>
   
-  <a href="../Drawings">Drawings</a>
+  <a href="https://divyanshushares.github.io/Drawings/">Drawings</a>
   <a href="#contact">Videos</a>
   <a href="./Books">Books</a>
   <a href="./About">About</a>
