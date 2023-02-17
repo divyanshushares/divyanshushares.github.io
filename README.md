@@ -17,11 +17,11 @@ Home | Divyanshu Shares
 <div class="topnav">
   <a class="active" href="https://divyanshushares.github.io/">Home</a>
   <a href="./Blogs">Blogs</a>
-  <a href="./Poems">Poems</a>
+  <a href="./Poetry">Poetry</a>
   
-  <a href="./Drawings/">Drawings</a>
-  <a href="#contact">Videos</a>
-  <a href="./Books">Books</a>
+  <a href="./Short Stories/">Short Stories</a>
+  
+  <a href="./Library">Library</a>
   <a href="./About">About</a>
 </div>
 </div>
