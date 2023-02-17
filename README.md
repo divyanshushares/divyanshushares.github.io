@@ -37,14 +37,13 @@ Home | Divyanshu Shares
 	   <p>~ Fernando Pessoa</p>
 		  <h3 align="center">
 	  <font face="Lato" color ="#ffffff"><hr>
-	  <p> This is a student website for various purposes such as sharing blogs, poems, drawings, books and some other creations.</p>
-	  <p> I hope you'll like the content. The aspects of the content vary but majorly cover melancholic, existential and philosophical content.
-		  These are mixed with personal thoughts and views.</p>
-		  <p> The Books section contain the books I've read and I intend to share the overall review sooner or later. </p>
+	  <p> This is a personal student website with the purpose of sharing Blogs, Poetry, Short Stories and the Books which I ‘ve read or are in my bucket list. The blogs contain the personal views on different topics which can be from any subject from Politics, Psychology to the day to day life happenings. The Poetry section contains poems written by me and from my favourite poets and my favourite poems. These include mostly Despair, Existential and Love poems.  Short Stories section contains only the originals by me. The Library section contains both the already read books and bucketed list of books. I intend to share the book reviews sooner or later. You can download the listed books too.</p>
+	  <p> I hope that you’ll find the content interesting, entertaining and thought provoking.</p>
+		  <p> The website aims to make the gaining knowledge fun and entertaining. What is better than learning new stuff mixed with the fiction. Obviously, the conscience is needed to tell both apart. Questioning and trying to find the answers is and should be the endeavor of this life. That has been the goal of all human history besides other things but the newness and the progress comes only with the creativity and curiosity and only to those who seek truth. There is a famous quote from Naturalist Henry David Thoreau “Rather than love, than money, than fame, give me truth”   It is not just a quote but also an inspiration. Everything will perish, then why do we care so much about the trivial concepts and feelings. Why is this universe the way it is and why is it at all or is there any universe at all or just an illusion? </p>
 		  
-   	  <p>Thank You for visiting the website. Please have a look at the published content. </p>
+   	  <p>The aspects of content vary but majorly covered topics are going to be Historical, Psychological, Philosophical, Melancholic, Pessimistic, Dystopian and Existential. Personal views are going to be mixed with the factual content and the content derived from the authors and different sources. The aim is to provide the subjective opinions with a good understanding and without any bias. The content is free and without any ads.   </p>
 			
-	   
+	   <p>Thankyou for visiting the website, I hope you will like it and enjoy reading here, Please have a look at the published content and don’t forget to give the feedback. </p><hr>
 		
               
                  <meta charset="UTF=8">
