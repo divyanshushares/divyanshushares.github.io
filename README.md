@@ -44,18 +44,7 @@ Home | Divyanshu Shares
 		  
    	  <p>Thank You for visiting the website. Please have a look at the published content. </p>
 			
-	   <h3 align="center">
-
-				   
-			<hr> <h2> Contact Me </h2>
-			 <h3 align="center">
-				   <font face="Lato" color ="#000000">
-<a href="https://t.me/SteadyDark"><img src= "https://cdn-icons-png.flaticon.com/128/2504/2504941.png" height="50" width="50" /></a>
-<a href="https://discord.com/channels/SteadyDark#0394"><img src= "https://img.icons8.com/color/2x/discord--v2.png" height="50" width="50" /></a>	
-<a href="https://www.reddit.com/user/steadydark"><img src= "https://cdn-icons-png.flaticon.com/128/2626/2626300.png" height="50" width="50" /></a>
-<a href="#"><img src= "https://cdn-icons-png.flaticon.com/128/733/733579.png" height="50" width="50" /></a>
-<a href="#"><img src= "https://i.imgur.com/XAe36X2.png" height="50" width="50" /></a>		
-<hr>
+	   
 		
               
                  <meta charset="UTF=8">
