@@ -19,7 +19,7 @@ Home | Divyanshu Shares
   <a href="./Blogs">Blogs</a>
   <a href="./Poetry">Poetry</a>
   
-  <a href="./Short Stories/">Short Stories</a>
+  <a href="./Short Stories">Short Stories</a>
   
   <a href="./Library">Library</a>
   <a href="./About">About</a>
