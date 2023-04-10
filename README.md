@@ -32,7 +32,7 @@ Home | Divyanshu Shares
     <font face="Lato" color ="#ffffff">
     <br> 
            <hr><h1> HOME </h1><hr>
-	     <h2><b><i>“To feel today what one felt yesterday isn’t to feel - it’s to remember today what was felt yesterday, to be today’s living corpse of what yesterday was lived and lost.”<b> </i></h2>
+	     <h2><b><i>“To feel today what one felt yesterday isn’t to feel - it’s to remember today what was felt yesterday, to be today’s living corpse of what yesterday was lived and lost.”</i></b></h2>
 <h3 align="right">
 	  <font face="Lato" color ="#ffffff"></font>
 	   <p>~ Fernando Pessoa</p>
