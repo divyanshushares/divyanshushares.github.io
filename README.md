@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<metaname= "viewport" content "width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type= "text/css" href="main.css" />
 <link rel=" icon" href="/4.ICO" type="image/x-icon"/>
 <link rel="shortcut icon" href="/4.ICO" type="image/x-icon"/>
@@ -33,7 +32,7 @@ Home | Divyanshu Shares
     <font face="Lato" color ="#ffffff">
     <br> 
            <hr><h1> HOME </h1><hr>
-	     <h3>“To feel today what one felt yesterday isn’t to feel - it’s to remember today what was felt yesterday, to be today’s living corpse of what yesterday was lived and lost.”</h3>
+	     <h2>“To feel today what one felt yesterday isn’t to feel - it’s to remember today what was felt yesterday, to be today’s living corpse of what yesterday was lived and lost.”</h2>
 <h3 align="right">
 	  <font face="Lato" color ="#ffffff">
 	   <p>~ Fernando Pessoa</p>
