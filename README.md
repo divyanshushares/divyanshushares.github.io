@@ -31,7 +31,7 @@ Home | Divyanshu Shares
 	</li>
     
 <div style="padding-center">
-	<meta charset="UTF=8">
+	
  <h3 align="center">
     <font face="Lato" color ="#ffffff">
     <br> 
