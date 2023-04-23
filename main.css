@@ -11,14 +11,14 @@
 { 
     margin:0;
     padding:0;
-    text-align:left; 
+    text-align:center; 
     top: 0;
 left:0px;
     font-size:18px;
     background:#383838;;
     display:inline-block;
     list-style:none;
-    position:left;
+    position:relative;
     z-index:999999990; 
     max-width:1400px;
 
