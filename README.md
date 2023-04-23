@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 <link rel="stylesheet" type= "text/css" href="main.css" />
+<script src="java.js" type="text/javascript"></script>
 <link rel=" icon" href="/4.ICO" type="image/x-icon"/>
 <link rel="shortcut icon" href="/4.ICO" type="image/x-icon"/>
 <meta name="description" content="A personal website made for sharing various things such as blogs, drawings books and some personal creations.
@@ -14,18 +15,20 @@
 Home | Divyanshu Shares
 </title>
 <body>
-<div class="navbar">
-<div class="topnav">
-  <a class="active" href="https://divyanshushares.github.io/">Home</a>
-  <a href="./Blogs">Blogs</a>
-  <a href="./Poetry">Poetry</a>
-  
-  <a href="./Short_Stories">Short Stories</a>
-  
-  <a href="./Library">Library</a>
-  <a href="./About">About</a>
-</div>
-</div>
+<nav id="ddmenu">
+    <div class="menu-icon"></div>
+    <ul>
+        <li class="full-width">
+           <li class="no-sub"><a class="top-heading" href="https://divyanshushares.github.io">Home</a></li>
+        <li class="active"  class="no-sub"><a class="top-heading" href="https://divyanshushares.github.io/Blogs">Blogs</a></li>
+<li class="no-sub"><a class="top-heading" href="https://divyanshushares.github.io/Poetry">Poetry</a></li>
+<li class="no-sub"><a class="top-heading" href="https://divyanshushares.github.io/Poetry">Short Stories</a></li>
+<li class="no-sub"><a class="top-heading" href="https://divyanshushares.github.io/Poetry">Library</a></li>
+<li class="no-sub"><a class="top-heading" href="https://divyanshushares.github.io/Poetry">About</a></li>
+        
+    
+    </ul>
+</nav>
 <div style="padding-center">
 	<meta charset="UTF=8">
  <h3 align="center">
