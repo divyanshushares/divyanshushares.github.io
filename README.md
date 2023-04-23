@@ -28,7 +28,7 @@ Home | Divyanshu Shares
 <li class="no-sub"><a class="top-heading" href="https://divyanshushares.github.io/Poetry">About</a></li>
         </ul>
 	</nav>
-    
+	</li>
     
 <div style="padding-center">
 	<meta charset="UTF=8">
