@@ -19,7 +19,7 @@ Home | Divyanshu Shares
 <body>
 <nav id="ddmenu">
     <div class="menu-icon"></div>
-    <ul>
+   
         <li class="full-width">
            <li class="active" class="no-sub"><a class="top-heading" href="https://divyanshushares.github.io">Home</a></li>
         <li  class="no-sub"><a class="top-heading" href="https://divyanshushares.github.io/Blogs">Blogs</a></li>
@@ -27,8 +27,7 @@ Home | Divyanshu Shares
 <li class="no-sub"><a class="top-heading" href="https://divyanshushares.github.io/Poetry">Short Stories</a></li>
 <li class="no-sub"><a class="top-heading" href="https://divyanshushares.github.io/Poetry">Library</a></li>
 <li class="no-sub"><a class="top-heading" href="https://divyanshushares.github.io/Poetry">About</a></li>
-        </ul>
-	</nav>
+        
 	</li>
     
 <div style="padding-center">
