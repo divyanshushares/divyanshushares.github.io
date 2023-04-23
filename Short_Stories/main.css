@@ -62,10 +62,10 @@ background-color:#ddd;
 #ddmenu .top-heading
 {
     
-    margin:0 16px;
+    margin:0 10px;
     color:inherit;
     text-decoration:none;
-    display:inline-block; 
+    display:block; 
     outline:0;
     cursor:pointer;
 }
@@ -74,6 +74,8 @@ background-color:#ddd;
 #ddmenu a, #ddmenu a:link, #ddmenu a:hover
 {
     color:inherit;
+padding:15px;
+border:0;
 }
 #ddmenu a:hover
 
@@ -166,12 +168,14 @@ background-color:#ccc \9;/*fallback for old IE*/
     line-height:1;
     text-decoration:none;
     transition:color 0.4s;
+padding:40px;
 }
 
 #ddmenu .dropdown a:hover, #ddmenu .dropdown a:focus
 {
     text-decoration:none;
     color:#09F;
+padding:40px;
 }
 
 /* blocks within the sub-menu
