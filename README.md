@@ -3,6 +3,7 @@
 <head>
 	 <meta name="viewport" content="width=device-width, initial-scale=1.0">
  <meta charset="UTF-8">
+ <link rel='alternate' type='application/rss+xml' title="Home | Divyanshu Shares" href='../index.xml'>
 <link rel="stylesheet" type= "text/css" href="main.css" />
 <script src="java.js" type="text/javascript"></script>
 <link rel=" icon" href="/4.ICO" type="image/x-icon"/>
