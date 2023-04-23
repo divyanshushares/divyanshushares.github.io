@@ -1,6 +1,7 @@
 
 <html lang="en">
 <head>
+ <meta charset="UTF-8">
 <link rel="stylesheet" type= "text/css" href="main.css" />
 <script src="java.js" type="text/javascript"></script>
 <link rel=" icon" href="/4.ICO" type="image/x-icon"/>
@@ -25,7 +26,8 @@ Home | Divyanshu Shares
 <li class="no-sub"><a class="top-heading" href="https://divyanshushares.github.io/Poetry">Short Stories</a></li>
 <li class="no-sub"><a class="top-heading" href="https://divyanshushares.github.io/Poetry">Library</a></li>
 <li class="no-sub"><a class="top-heading" href="https://divyanshushares.github.io/Poetry">About</a></li>
-        
+        </ul>
+	</nav>
     
     
 <div style="padding-center">
