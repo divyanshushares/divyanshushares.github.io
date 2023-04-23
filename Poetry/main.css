@@ -210,7 +210,7 @@ border-right:1px solid #999;
 
 
 /*styles for mobile*/
-@media only screen and (max-width: 576px) 
+@media only screen and (max-width: 750px) 
 {
     #ddmenu .column.mayHide {
         display:none;
