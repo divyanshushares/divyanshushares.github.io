@@ -21,12 +21,12 @@ Home | Divyanshu Shares
     <div class="menu-icon"></div>
    
         <li class="full-width">
-           <li class="active" class="no-sub"><a class="top-heading" href="https://divyanshushares.github.io">Home</a></li>
+       <ul>   <li class="active" class="no-sub"><a class="top-heading" href="https://divyanshushares.github.io">Home</a></li>
         <li  class="no-sub"><a class="top-heading" href="https://divyanshushares.github.io/Blogs">Blogs</a></li>
 <li class="no-sub"><a class="top-heading" href="https://divyanshushares.github.io/Poetry">Poetry</a></li>
 <li class="no-sub"><a class="top-heading" href="https://divyanshushares.github.io/Poetry">Short Stories</a></li>
 <li class="no-sub"><a class="top-heading" href="https://divyanshushares.github.io/Poetry">Library</a></li>
-<li class="no-sub"><a class="top-heading" href="https://divyanshushares.github.io/Poetry">About</a></li>
+<li class="no-sub"><a class="top-heading" href="https://divyanshushares.github.io/Poetry">About</a></li></ul>
         
 	</li>
     
