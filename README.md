@@ -19,19 +19,21 @@ Home | Divyanshu Shares
 </title>
 <body>
 <nav id="ddmenu">
-	<br>
+<br>
     <div class="menu-icon"></div>
-   
+    <ul>
         <li class="full-width">
-       <ul>   <li class="active" class="no-sub"><a class="top-heading" href="https://divyanshushares.github.io">Home</a></li>
-        <li  class="no-sub"><a class="top-heading" href="https://divyanshushares.github.io/Blogs">Blogs</a></li>
-<li class="no-sub"><a class="top-heading" href="https://divyanshushares.github.io/Poetry">Poetry</a></li>
-<li class="no-sub"><a class="top-heading" href="https://divyanshushares.github.io/Short_Stories">Short Stories</a></li>
-<li class="no-sub"><a class="top-heading" href="https://divyanshushares.github.io/Library">Library</a></li>
-<li class="no-sub"><a class="top-heading" href="https://divyanshushares.github.io/About">About</a></li></ul>
+           <li class="active" class="no-sub"><a class="top-heading" href="https://divyanshushares.github.io">Home</a></li>
+        <li   class="no-sub"><a class="top-heading" href="./Blogs">Blogs</a></li>
+<li class="no-sub"><a class="top-heading" href="./Poetry">Poetry</a></li>
+<li class="no-sub"><a class="top-heading" href="./Short_Stories">Short Stories</a></li>
+<li  class="no-sub"><a class="top-heading" href="./Library">Library</a></li>
+<li class="no-sub"><a class="top-heading" href="./About">About</a></li>
         
-	</li>
     
+    </ul>
+</nav>
+   
 <div style="padding-center">
 	
  <h3 align="center">
