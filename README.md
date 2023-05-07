@@ -28,7 +28,7 @@ Home | Divyanshu Shares
 <li class="no-sub"><a class="top-heading" href="./Poetry">Poetry</a></li>
 <li class="no-sub"><a class="top-heading" href="./Short_Stories">Short Stories</a></li>
 <li  class="no-sub"><a class="top-heading" href="./Library">Library</a></li>
-<li class="no-sub"><a class="top-heading" href="./About">About</a></ul></nav></li>    </ul></li></nav>
+<li class="no-sub"><a class="top-heading" href="./About">About</a></li>  </li>  </ul> </nav>
  
 
 
