@@ -9,18 +9,16 @@
 
 #ddmenu ul
 { 
-    margin:0;
+    margin:0 auto;
     padding:0;
     text-align:center; 
-    top: 0px;
-left:0px;
-    font-size:18px;
+   
     background:#383838;
     display:block;
     list-style:none;
-    position:absolute;
+    position:relative;
     z-index:999999990; 
-    max-width:1400px;
+    max-width:740px;
 
 border-radius:4px;
 font-family:EB Garamond;
@@ -219,7 +217,7 @@ border-right:1px solid #999;
 
 
 /*styles for mobile*/
-@media only screen and (max-width: 750px) 
+@media only screen and (max-width: 850px) 
 {
     #ddmenu .column.mayHide {
         display:none;
@@ -353,20 +351,20 @@ border-right:1px solid #999;
 }
 /* Tufte CSS styles */
 
-@media (max-width: 80%) {
+@media (max-width: 480px) {
   html {
     font-size: 12px
   }
 }
 
 body {
-    width: 80.5%;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
     padding-left: 0%;
     background-color:#2f2c30;
     color: #fffff8;
-    max-width: 80%;
+    max-width: 85%;
 }
 
 
