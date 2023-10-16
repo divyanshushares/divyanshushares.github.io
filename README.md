@@ -38,7 +38,7 @@ Home | Divyanshu Shares
    
 <div style="padding-center">
 	<a  href="https:divyanshushares.github.io"><img src="https://i.imgur.com/9CMg5kw.png" width="100px" border-radius="4px"></a><h3> <i>DivyanshuShares: A personal portfolio.</i> </h3>
- <div id="smooth">
+</div> <div id="smooth">
  <h3 align="center">
     <font face="Lato" color ="#ffffff">
    
@@ -68,6 +68,8 @@ Home | Divyanshu Shares
 			 
 			 
 <a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=8021325&style=0010&nbdigits=5&type=ip&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>  </div>    
+<img src="https://hitwebcounter.com/counter/counter.php?page=8021325&style=0010&nbdigits=5&type=ip&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>  
+
+ 
          
-      <br/>
+      <br> </div>
