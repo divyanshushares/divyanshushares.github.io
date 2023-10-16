@@ -6,41 +6,44 @@
     text-align:left; /*Specify the alignment of the whole UL if UL is not width:100%;*/
     letter-spacing:normal;
 }
-
+#container {
+  display: flex;
+  flex-wrap: wrap;
+}
+#smooth{
+margin:40px auto 30px; width:device-width; font-family: EB Garamond 12 Regular; color:white;  padding:20px; border-radius:20px; border:2px solid white}
 #ddmenu ul
-{ 
-    margin:0 auto;
+{ margin:0 auto;
     padding:0;
-    text-align:center; 
-   
-    background:#383838;
-    display:block;
+    text-align:center; /* Alignment of each top-level menu items within the UL */
+    width:100%;
+    font-size:0;
+    background:#464141;
+    display:inline-block;
+background-color:rgba (0,0,0,0.5) ;
     list-style:none;
-    position:relative;
+    position:center;
     z-index:999999990; 
-    max-width:740px;
-
-border-radius:4px;
-font-family:EB Garamond;
+    max-width:100%;
+border:2px solid rgba(255,255,255,0.2);
+border-radius:0px;
 }
 .active{
   background-color: #04AA6D;
   color: white;}
 
 #ddmenu li
-{top: 0;
-left:0;
-    margin:0;
-    padding:0;
-    font-size:18px;
+{ margin:0;
+    
+    font-size:20px;
     display:inline-block;
-    *display:inline;
+   
     zoom:1; /*for IE6-7*/
     position:relative;
     color:#eee;
-    line-height:35px; /*This determines the height of the menu*/
+    line-height:26px; /*This determines the height of the menu*/
     vertical-align:middle;
-    
+    transition:background-color 0.2s;
     outline:none;
 	-moz-user-select:none;
     -webkit-user-select: none;
@@ -362,7 +365,8 @@ body {
     margin-left: auto;
     margin-right: auto;
     padding-left: 0%;
-    background-color:#2f2c30;
+    background-image:url(https://i.imgur.com/fnI9fik.jpg);
+background-attachment:fixed;
     color: #fffff8;
     max-width: 85%;
 }
