@@ -21,9 +21,12 @@ Home | Divyanshu Shares
 <nav id="ddmenu">
 <br>
     <div class="menu-icon"></div>
+
     <ul>
+
         <li class="full-width">
-           <li class="active"><a class="top-heading" href="https://divyanshushares.github.io">Home</a></li>
+
+           <li class="active" class="no-sub"><a class="top-heading" href="https://divyanshushares.github.io">Home</a></li>
         <li   class="no-sub"><a class="top-heading" href="./Blogs">Blogs</a></li>
 <li class="no-sub"><a class="top-heading" href="./Poetry">Poetry</a></li>
 <li class="no-sub"><a class="top-heading" href="./Short_Stories">Short Stories</a></li>
@@ -31,18 +34,19 @@ Home | Divyanshu Shares
 <li class="no-sub"><a class="top-heading" href="./About">About</a></li>  </li>  </ul> </nav>
  
 
-
+<br>
    
 <div style="padding-center">
-	
+	<a  href="https:divyanshushares.github.io"><img src="https://i.imgur.com/9CMg5kw.png" width="100px" border-radius="4px"></a><h3> <i>DivyanshuShares: A personal portfolio.</i> </h3>
+ <div id="smooth">
  <h3 align="center">
     <font face="Lato" color ="#ffffff">
-    
-           <hr><h1> HOME </h1><hr>
+   
+      
 	     <h3><i>“To feel today what one felt yesterday isn’t to feel - it’s to remember today what was felt yesterday, to be today’s living corpse of what yesterday was lived and lost.”</i></h3>
 <h3 align="right">
 	  <font face="Lato" color ="#ffffff"></font>
-	   <p>~ Fernando Pessoa</p>
+	   <p>~ Fernando Pessoa</p> </div>
 		  <h3 align="center">
 	  <font face="Lato" color ="#ffffff"><hr>
 	  
@@ -54,7 +58,7 @@ Home | Divyanshu Shares
    	  <p>The aspects of content may vary but majorly the topics are going to be Historical, Psychological, Philosophical, Melancholic, Pessimistic, Dystopian and Existential. THe serving of the website will contain the personal views mixed with the facts and the content derived from the authors(in short opinion). The aim is to provide opinions with a good understanding and without any bias. The content is free and without any ads.   </p>
 			
 	   <p>Thankyou for visiting the website, I hope you will like it and enjoy reading here, Please have a look at the published content and don’t forget to give the feedback. </p><hr>
-		
+		<div id="smooth">
               
                  <meta charset="UTF=8">
  <h3 align="center">
@@ -64,6 +68,6 @@ Home | Divyanshu Shares
 			 
 			 
 <a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=8021325&style=0010&nbdigits=5&type=ip&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>      
+<img src="https://hitwebcounter.com/counter/counter.php?page=8021325&style=0010&nbdigits=5&type=ip&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>  </div>    
          
       <br/>
