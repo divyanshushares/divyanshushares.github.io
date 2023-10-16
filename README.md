@@ -41,7 +41,7 @@ Home | Divyanshu Shares
 
 
  
-<div style="margin:40px auto 30px; width:device-width; font-family: EB Garamond 12 Regular; color:white;  padding:20px; border-radius:20px; border:2px solid white;">
+
  <h3 align="center">
     <font face="Lato" color ="#ffffff">
    
@@ -49,7 +49,7 @@ Home | Divyanshu Shares
 	     <h3><i>“To feel today what one felt yesterday isn’t to feel - it’s to remember today what was felt yesterday, to be today’s living corpse of what yesterday was lived and lost.”</i></h3>
 <h3 align="right">
 	  <font face="Lato" color ="#ffffff"></font>
-	   <p>~ Fernando Pessoa</p> </div>
+	   <p>~ Fernando Pessoa</p>
 		  <h3 align="center">
 	  <font face="Lato" color ="#ffffff"><hr>
 	  
