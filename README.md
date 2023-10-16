@@ -36,15 +36,19 @@ Home | Divyanshu Shares
 
 <br>
    
-
+<div style="padding-center">
 	<a  href="https:divyanshushares.github.io"><img src="https://i.imgur.com/9CMg5kw.png" width="100px" border-radius="4px"></a><h3> <i>DivyanshuShares: A personal portfolio.</i> </h3>
  <div id="smooth">
+ <h3 align="center">
+    <font face="Lato" color ="#ffffff">
    
-
+      
 	     <h3><i>“To feel today what one felt yesterday isn’t to feel - it’s to remember today what was felt yesterday, to be today’s living corpse of what yesterday was lived and lost.”</i></h3>
 <h3 align="right">
+	  <font face="Lato" color ="#ffffff"></font>
 	   <p>~ Fernando Pessoa</p> </div>
-		<hr>
+		  <h3 align="center">
+	  <font face="Lato" color ="#ffffff"><hr>
 	  
 	  <p> This is a personal student website with the purpose of sharing Blogs, Poetry, Short Stories and the Books, both which I‘ve read and are in my bucket list. The blogs contain personal views on different topics which can be from any subject from Politics, Psychology to the day to day experiences and further opinion formation.</p>
 	  <p>The Poetry section contains poems written by me and from my favourite poets. These include mostly Despair, Existential and Love poems.  Short Stories section contains only the originals by me. The Library section contains both, already read books and bucketed list of books. I intend to share the book reviews sooner or later. You can download the listed books too.</p>
@@ -57,15 +61,13 @@ Home | Divyanshu Shares
 		<div id="smooth">
               
                  <meta charset="UTF=8">
-
+ <h3 align="center">
     <font face="Lato" color ="#ffffff">
              
 			  <p> (Visitor Counter)  <p>
 			 
 			 
 <a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=8021325&style=0010&nbdigits=5&type=ip&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>  
-
- </div>
+<img src="https://hitwebcounter.com/counter/counter.php?page=8021325&style=0010&nbdigits=5&type=ip&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>  </div>    
          
-      <br> 
+      <br>
