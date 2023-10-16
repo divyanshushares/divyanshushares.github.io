@@ -36,9 +36,9 @@ Home | Divyanshu Shares
 
 <br>
    
-<div style="padding-center">
+
 	<a  href="https:divyanshushares.github.io"><img src="https://i.imgur.com/9CMg5kw.png" width="100px" border-radius="4px"></a><h3> <i>DivyanshuShares: A personal portfolio.</i> </h3>
-</div> <div id="smooth">
+ <div id="smooth">
  <h3 align="center">
     <font face="Lato" color ="#ffffff">
    
