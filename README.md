@@ -37,8 +37,11 @@ Home | Divyanshu Shares
 <br>
    
 <div style="padding-center">
-	<a  href="https:divyanshushares.github.io"><img src="https://i.imgur.com/9CMg5kw.png" width="100px" border-radius="4px"></a><h3> <i>DivyanshuShares: A personal portfolio.</i> </h3>
- <div id="smooth">
+	<a  href="https:divyanshushares.github.io"><img src="https://i.imgur.com/9CMg5kw.png" width="100px" border-radius="4px"></a><h3> <i>DivyanshuShares: A personal portfolio.</i> </h3></div>
+
+
+ 
+<div style="margin:40px auto 30px; width:device-width; font-family: EB Garamond 12 Regular; color:white;  padding:20px; border-radius:20px; border:2px solid white;">
  <h3 align="center">
     <font face="Lato" color ="#ffffff">
    
