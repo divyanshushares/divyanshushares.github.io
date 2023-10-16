@@ -45,7 +45,7 @@ Home | Divyanshu Shares
  <h3 align="center">
     <font face="Lato" color ="#ffffff">
    
-      
+      <hr>
 	     <h3><i>“To feel today what one felt yesterday isn’t to feel - it’s to remember today what was felt yesterday, to be today’s living corpse of what yesterday was lived and lost.”</i></h3>
 <h3 align="right">
 	  <font face="Lato" color ="#ffffff"></font>
