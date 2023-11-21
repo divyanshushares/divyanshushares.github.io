@@ -48,7 +48,7 @@ Home | Divyanshu Shares
 	  
 	   <p align="right">~ Fernando Pessoa</p> 
 		  </div>
-	  <font face="Lato" color ="#ffffff">  <hr align="center>
+	   
 	  
 	  <p> This is a personal student website with the purpose of sharing Blogs, Poetry, Short Stories and the Books, both which I‘ve read and are in my bucket list. The blogs contain personal views on different topics which can be from any subject from Politics, Psychology to the day to day experiences and further opinion formation.</p>
 	  <p>The Poetry section contains poems written by me and from my favourite poets. These include mostly Despair, Existential and Love poems.  Short Stories section contains only the originals by me. The Library section contains both, already read books and bucketed list of books. I intend to share the book reviews sooner or later. You can download the listed books too.</p>
@@ -58,6 +58,8 @@ Home | Divyanshu Shares
    	  <p>The aspects of content may vary but majorly the topics are going to be Historical, Psychological, Philosophical, Melancholic, Pessimistic, Dystopian and Existential. THe serving of the website will contain the personal views mixed with the facts and the content derived from the authors(in short opinion). The aim is to provide opinions with a good understanding and without any bias. The content is free and without any ads.   </p>
 			
 	   <p>Thankyou for visiting the website, I hope you will like it and enjoy reading here, Please have a look at the published content and don’t forget to give the feedback. </p>  <hr>
+
+    <br>
 		<div id="smooth">
               
                  <meta charset="UTF=8">
