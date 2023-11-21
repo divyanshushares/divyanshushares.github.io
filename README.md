@@ -44,7 +44,7 @@ Home | Divyanshu Shares
  
 <div id="smooth">
  
-<h2>  <i>“To feel today what one felt yesterday isn’t to feel - it’s to remember today what was felt yesterday, to be today’s living corpse of what yesterday was lived and lost.”</i> </h2>
+<h3>  <i>“To feel today what one felt yesterday isn’t to feel - it’s to remember today what was felt yesterday, to be today’s living corpse of what yesterday was lived and lost.”</i> </h3>
 	  
 	   <p align="right">~ Fernando Pessoa</p> 
 		  </div>
