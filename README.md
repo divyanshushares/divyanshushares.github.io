@@ -44,10 +44,9 @@ Home | Divyanshu Shares
  
 <div id="smooth">
  
- <hr align="center>
-	     <h3 align="center><i>“To feel today what one felt yesterday isn’t to feel - it’s to remember today what was felt yesterday, to be today’s living corpse of what yesterday was lived and lost.”</i></h3>
+<h2>  <i>“To feel today what one felt yesterday isn’t to feel - it’s to remember today what was felt yesterday, to be today’s living corpse of what yesterday was lived and lost.”</i> </h2>
 	  
-	   <p align="right">~ Fernando Pessoa</p> </h3>
+	   <p align="right">~ Fernando Pessoa</p> 
 		  </div>
 	  <font face="Lato" color ="#ffffff">  <hr align="center>
 	  
@@ -58,7 +57,7 @@ Home | Divyanshu Shares
 		  
    	  <p>The aspects of content may vary but majorly the topics are going to be Historical, Psychological, Philosophical, Melancholic, Pessimistic, Dystopian and Existential. THe serving of the website will contain the personal views mixed with the facts and the content derived from the authors(in short opinion). The aim is to provide opinions with a good understanding and without any bias. The content is free and without any ads.   </p>
 			
-	   <p>Thankyou for visiting the website, I hope you will like it and enjoy reading here, Please have a look at the published content and don’t forget to give the feedback. </p>  <hr align="center>
+	   <p>Thankyou for visiting the website, I hope you will like it and enjoy reading here, Please have a look at the published content and don’t forget to give the feedback. </p>  <hr>
 		<div id="smooth">
               
                  <meta charset="UTF=8">
