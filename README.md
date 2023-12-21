@@ -50,26 +50,32 @@ Home | Divyanshu Shares
 		  </div>
 	   
 	  
-	  <p> This is a personal student website with the purpose of sharing Blogs, Poetry, Short Stories and the Books, both which I‘ve read and are in my bucket list. The blogs contain personal views on different topics which can be from any subject from Politics, Psychology to the day to day experiences and further opinion formation.</p>
-	  <p>The Poetry section contains poems written by me and from my favourite poets. These include mostly Despair, Existential and Love poems.  Short Stories section contains only the originals by me. The Library section contains both, already read books and bucketed list of books. I intend to share the book reviews sooner or later. You can download the listed books too.</p>
-	  <p> I hope that you’ll find the content interesting, entertaining and thought provoking.</p>
-		  <p> The website is also a simile of archive, living life and at the same time noting down the experiences with some introspection and learnings making it fun and entertaining. What is better than learning new stuff mixed with the fiction? Obviously, the conscience is needed to distinguish both (fiction and conventional reality) apart. Questioning and trying to find the answers is and should be the pursuit of this life and it has been the goal of all human history besides other things but the newness and the progress comes only with the creativity and curiosity and only to those who seek truth. There is a famous quote from Naturalist Henry David Thoreau “Rather than love, than money, than fame, give me truth”   It is not just a quote but an inspiration for many. Everything will perish in the end even the dust will face annihilation, then why do we care so much about the trivial concepts and feelings. Why is this universe the way it is and why it is at all? Is there any universe at all or just an illusion? </p>
+	  <p> This is a personal student website with the purpose of sharing Blogs, Poetry, Short Stories and the Books, both which I‘ve read and are in my bucket list. The blogs contain personal views on different topics which can vary from any subject; Politics, Psychology to the day to day experiences and an introspected part of them. </p>
+	  <p>The Poetry section contains poems written by me and the poetry from my favourite poets. These include mostly <strong>melancholic</strong>, <strong>existential</strong> and <strong>love</strong> poems. <strong> Short Stories</strong> section contains only the original stories written by me. The <strong>Library</strong> section contains both, already read books and bucketed list of books. I intend to share the book reviews sooner or later. You can download the listed books too.</p>
+	  <p> It's hoped that you’ll find the content interesting and entertaining.</p>
+		  <p> The website is also a simile of an archive, living life and at the same time noting down the experiences with some introspection and learnings, making it fun and entertaining. What is better than learning new stuff mixed with a pinch of imagination? Obviously, the conscience is needed to distinguish both (fictional and conventional reality) apart. Questioning and trying to find the answers is and should be the pursuit of this life and it has been the goal of all human history besides other things but the newness and the progress comes only with the creativity and curiosity and to only those who seek truth. There is a famous quote from Naturalist Henry David Thoreau “Rather than love, than money, than fame, give me truth”. It is not just a quote but an inspiration for many. Everything will perish in the end even the dust will face annihilation, then why do we care so much about the trivial concepts and feelings? Why is this universe the way it is and why it is at all? Is there any universe at all or just an illusion? </p>
 		  
-   	  <p>The aspects of content may vary but majorly the topics are going to be Historical, Psychological, Philosophical, Melancholic, Pessimistic, Dystopian and Existential. THe serving of the website will contain the personal views mixed with the facts and the content derived from the authors(in short opinion). The aim is to provide opinions with a good understanding and without any bias. The content is free and without any ads.   </p>
+   	  <p>The aspects of content may vary but majorly the topics are going to be Historical, Psychological, Philosophical, Melancholic, Pessimistic, Dystopian and Existential. THe serving of the website will contain the personal views mixed with the facts and the content derived from the authors (in short, an opinion). The aim is to provide opinions with a good understanding and without any bias. The content is free and without any ads.   </p>
 			
-	   <p>Thankyou for visiting the website, I hope you will like it and enjoy reading here, Please have a look at the published content and don’t forget to give the feedback. </p>  <hr>
+	   <p>Thankyou for visiting the website, I hope you will like it and enjoy reading here, Please have a look at the published content and don’t forget to give the feedback. </p>  
 
     <br>
+
+
+
+
+
+
 		<div id="smooth">
               
-                 <meta charset="UTF=8">
- <h3 align="center">
-    <font face="Lato" color ="#ffffff">
-             
-			  <p> (Visitor Counter)  <p>
+                
+ 
+  
+         
+			  <p align="center"> (Visitor Counter)  </p>
 			 
-			 
+		 <p align="center">	 
 <a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=8021325&style=0010&nbdigits=5&type=ip&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>  
+<img src="https://hitwebcounter.com/counter/counter.php?page=8021325&style=0010&nbdigits=5&type=ip&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>  </p>
          
       <br>
