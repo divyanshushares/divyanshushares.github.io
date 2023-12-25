@@ -36,20 +36,20 @@ Home | Divyanshu Shares
  
 
 <br>
-   
+     <div id="animation2">
 <div style="padding-center">
 	<a  href="https:divyanshushares.github.io"><img src="https://i.imgur.com/9CMg5kw.png" width="100px" border-radius="4px"></a>
 <h3> <i>DivyanshuShares: A personal portfolio.</i> </h3>
 </div>
 
 
- 
+
 <div id="smooth">
  
 <h3>  <i>“To feel today what one felt yesterday isn’t to feel - it’s to remember today what was felt yesterday, to be today’s living corpse of what yesterday was lived and lost.”</i> </h3>
 	  
 	   <p align="right">~ Fernando Pessoa</p> 
-		  </div>
+		  </div> </div>
 	   
 	 <div id="animation0"> 
 	  <p> This is a personal student website with the purpose of sharing Blogs, Poetry, Short Stories and the Books, both which I‘ve read and are in my bucket list. The blogs contain personal views on different topics which can vary from any subject; Politics, Psychology to the day to day experiences and an introspected part of them. </p>
@@ -85,5 +85,5 @@ Home | Divyanshu Shares
 		 <p align="center">	 
 <a href="https://www.hitwebcounter.com" target="_blank">
 <img src="https://hitwebcounter.com/counter/counter.php?page=8021325&style=0010&nbdigits=5&type=ip&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>  </p>
-      
+         </div>
       <br>
