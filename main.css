@@ -177,7 +177,25 @@ display:block;
   background-color: ;
   font-weight: ;
   position: relative;
-  animation: mymove 5s;
+  animation: mymove 6s;
+  animation-fill-mode: forwards;}
+
+
+@keyframes mymove1 {
+  from {top: -30%;}
+  to {top: 0%;}
+ 
+} 
+
+#animation1 {animation-timing-function: ease;
+font-family: EB Garamond;
+display:block;
+  width: 100%;
+ 
+  background-color: ;
+  font-weight: ;
+  position: relative;
+  animation: mymove1 2.5s;
   animation-fill-mode: forwards;}
 
 #ddmenu
