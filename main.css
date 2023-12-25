@@ -163,7 +163,7 @@ li:not(:first-child) {
     margin-top: 0.25rem;
 }
 
-
+/* home page*/
 @keyframes mymove {
   from {left: -30%;}
   to {left: 1%;}
@@ -177,11 +177,35 @@ display:block;
   background-color: ;
   font-weight: ;
   position: relative;
-  animation: mymove 6s;
+  animation: mymove 4s;
   animation-fill-mode: forwards;}
 
 
-@keyframes mymove1 {
+@keyframes mymove2 {
+  from {right: -30%;}
+  to {right: 0%;}
+ 
+} 
+
+#animation2 {animation-timing-function: ease;
+font-family: EB Garamond;
+display:block;
+  width: 100%;
+ 
+  background-color: ;
+  font-weight: ;
+  position: relative;
+  animation: mymove2 5s;
+  animation-fill-mode: forwards;}
+
+
+
+
+
+
+
+/* library page*/
+@keyframes Genremove1 {
   from {top: -30%;}
   to {top: 0%;}
  
@@ -195,8 +219,26 @@ display:block;
   background-color: ;
   font-weight: ;
   position: relative;
-  animation: mymove1 2.5s;
+  animation: Genremove1 2.5s;
   animation-fill-mode: forwards;}
+
+@keyframes Booksmove {
+  from {left: -30%;}
+  to {left: 1%;}
+} 
+
+#animation3 {animation-timing-function: ease;
+font-family: EB Garamond;
+display:block;
+  width: 100%;
+ 
+  background-color: ;
+  font-weight: ;
+  position: relative;
+  animation: Booksmove 2.5s;
+  animation-fill-mode: forwards;}
+
+
 
 #ddmenu
 {
