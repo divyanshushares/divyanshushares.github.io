@@ -8,32 +8,9 @@ body {
 background-attachment:fixed;
     color: #fffff8;
     max-width: 85%;
-font-family:cursive;
 }
 
-#container1{display: flex;
-width:100%;
-flex-wrap: wrap;}
-#container1>div{margin:10px;
-width:40%;
-padding:10px;}
-#container1 a{color:white;
-text-decoration: dotted underline;}
-#container1 a:hover{color:pink;
-text-decoration: dotted underline;}
-
-Prose {width: auto;
-border: 1px solid white;
-color: white;
-display: block;
- margin-top: 1rem;
-    margin-bottom: 1rem;
-
-box-sizing: border-box;
-padding: 1rem;
-margin-right:10px;
-
-}
+img {border-radius:40%;}
 
 
 
@@ -80,6 +57,7 @@ padding:4px 4px;
        border:1px transparent;
         box-sizing: content-box;}
 
+
 hr {
     
     height: 10px;
@@ -97,83 +75,74 @@ font-family: sans-serif;
 }
 
 
-.flex-containerpent {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  box-shadow: 4px 4px 8px 14px red;
+.flex-containerpent {display:flex;
+flex-wrap:wrap;
+justify-content:space-between;
+box-shadow: 4px 4px 8px 14px red;}
+
+.flex-pent { margin: 5px;
 width:20%;
+padding:5px;
+} 
+.pentagon {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  background-color: purple;
+  clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
+animation:blink 1s infinite;
+
 }
 
-.flex-pent {
-  margin: 5px;
-  width: 20%;
-  padding: 5px;
+.pentagon1 {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  background-color: purple;
+  clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
+animation:blink 1s infinite;
+animation-delay: 2s;
 }
 
+
+
+.pentagon2 {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  background-color: purple;
+  clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
+animation:blink 1s infinite;
+animation-delay: 4s;
+}
+
+
+.pentagon3 {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  background-color: purple;
+  clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
+animation:blink 1s infinite;
+animation-delay: 6s;
+}
+
+
+
+
+ 
 @keyframes blink {
-  0%, 25% {
+  0% {
     opacity: 1;
   }
-  50%, 75% {
-    opacity: 0.3;
+  50% {
+    opacity: 0;
   }
   100% {
     opacity: 1;
   }
 }
 
-.pentagon1,
-.pentagon2,
-.pentagon3,
-.pentagon4,
-.pentagon5,
-.pentagon6,
-.pentagon7{
-  position: relative;
-  width: 50px;
-  height: 50px;
-  background-color: blue;
-  clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
-  animation: move 3s linear infinite; /* Adjust duration and timing function as needed */
-}
-
-.pentagon1 {
-  animation: blink 3.5s infinite;
-  animation-delay: 0s;
-}
-
-.pentagon2 {
-  animation: blink 3.5s infinite;
-  animation-delay: 0.2s;
-}
-
-.pentagon3 {
-  animation: blink 3.5s infinite;
-  animation-delay: 0.4s;
-}
-
-.pentagon4 {
-  animation: blink 3.5s infinite;
-  animation-delay: 0.6s;
-}
-
-.pentagon5 {
-  animation: blink 3.5s infinite;
-  animation-delay: 0.8s;
-}
-
-.pentagon6 {
-  animation: blink 3.5s infinite;
-  animation-delay: 1s;
-}
-
-.pentagon7 {
-  animation: blink 3.5s infinite;
-  animation-delay: 1.2s;
-}
-
-img {border-radius:30%;}
 
 
 p {
@@ -924,30 +893,7 @@ figure.fullwidth figcaption {
     margin-right: 54%;
 }
 
-#container1{display: flex;
-width:100%;
-flex-wrap: wrap;}
-#container1>div{margin:10px;
-width:100%;
-padding:10px;}
-#container1 a{color:white;
-text-decoration: dotted underline;}
-#container1 a:hover{color:pink;
-text-decoration: dotted underline;}
-#container1 h2 {font-size:22px;}
 
-Prose {width: auto;
-border: 1px solid white;
-color: white;
-display: block;
- margin-top: 1rem;
-    margin-bottom: 1rem;
-
-box-sizing: border-box;
-padding: 1rem;
-margin-right:10px;
-
-}
 
 
 a:link,
