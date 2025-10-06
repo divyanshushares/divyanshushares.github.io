@@ -1,0 +1,85 @@
+body{background: black;
+height:100vh;
+width:100%;
+margin:auto;}
+
+header {color:red;
+font-size:60px;
+font-family: Arial;
+margin:20px;
+}
+
+header a {color:red;
+text-decoration: none;
+font-weight:bold;
+-webkit-text-stroke: 2px black;
+}
+
+#menu ul{width:auto;
+float:center;
+display:block;
+opacity: 0.7;
+font-family:Airal;
+background-color:;
+border: 1px;} 
+
+
+#menu li {display:inline-block;
+margin-right:5%;
+
+font-size:30px;
+float:center;
+
+color:black;
+border-radius:4px;
+box-shadow: 3px 4px 10px black;
+}
+
+
+#menu li a {color:black;
+font-family:Arial;
+text-decoration:none;
+display:block;
+background-color: red;
+border-radius:4px;
+padding:10px;}
+
+#menu li a:hover {color:red;
+transition:0.3s;}
+
+#menu li:hover a{text-decoration:none;
+transition:0.3s;
+color:red;
+background-color:black;}
+
+.rite {float:right;
+border-radius:15px;
+background-color:;
+opacity:1;}
+
+
+#polygon1 {clip-path: polygon(0% 0%, 80% 0%, 100% 100%, 0% 100%);
+border: 2px solid black;
+width:30%;
+margin:;
+padding: 15px;
+padding-right: 60px;
+border-radius:0px;
+background-color: black;
+text-align:center;
+color: red;}
+
+
+#polygon2 {clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 10% 100%);
+border: 2px solid black;
+width:55%;
+float:right;
+text-align:right;
+margin:;
+padding: 15px;
+padding-left: 70px;
+border-radius:0px;
+background-color: black;
+color: red;}
+
+
